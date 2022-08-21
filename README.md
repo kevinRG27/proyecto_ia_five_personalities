@@ -9,3 +9,10 @@ Integrantes de grupo:
 
 Recursos:
 - Dataset de Kaggle: https://www.kaggle.com/datasets/tunguz/big-five-personality-test
+
+
+# Indicaciones para reproducir el Notebook
+
+- Se debe generar un API_TOKEN desde una cuenta validad en Kaggle:
+![Imagen muestra como crear API TOKEN](API_TOKEN.png)
+- Al generar el API_TOKEN este descarga un archivo "kaggle.json" este se debe cargar en el Notebook en la ruta raíz.
