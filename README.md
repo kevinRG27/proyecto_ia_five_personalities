@@ -19,8 +19,8 @@ Recursos:
 
 # URL del video correspondiente a la entrega N° 2
 
-- URL: ![Video](https://www.youtube.com/watch?v=LBp90gF-XgY&feature=youtu.be)
+- URL: !Video(https://www.youtube.com/watch?v=LBp90gF-XgY&feature=youtu.be)
 
 # URL del video correspondiente a la entrega final
 
-- URL: ![Video](https://www.youtube.com/watch?v=09b1nRJAoXA&t=1s)
+- URL: !Video(https://www.youtube.com/watch?v=09b1nRJAoXA&t=1s)
