@@ -3,9 +3,9 @@ This is a repository for hosting the project of the subject "Artificial Intellig
 
 Integrantes de grupo:
 
-*Daniel Alexander Basto Moreno – CC. 1030639051 - Bioingenieria
-*Kevin Alonso Restrepo García – CC.1216726638 - Ingenieria de Sistemas
-*Angie Viviana Rosales Portilla – CC. 1037661697 - Bioingenieria
+- Daniel Alexander Basto Moreno – CC. 1030639051 - Bioingenieria
+- Kevin Alonso Restrepo García – CC.1216726638 - Ingenieria de Sistemas
+- Angie Viviana Rosales Portilla – CC. 1037661697 - Bioingenieria
 
 Recursos:
 - Dataset de Kaggle: https://www.kaggle.com/datasets/tunguz/big-five-personality-test
@@ -19,4 +19,8 @@ Recursos:
 
 # URL del video correspondiente a la entrega N° 2
 
--URL: ![Video]https://www.youtube.com/watch?v=LBp90gF-XgY&feature=youtu.be
+- URL: ![Video](https://www.youtube.com/watch?v=LBp90gF-XgY&feature=youtu.be)
+
+# URL del video correspondiente a la entrega final
+
+- URL: ![Video](https://www.youtube.com/watch?v=09b1nRJAoXA&t=1s)
